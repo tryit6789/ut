@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/tryit6789/blog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [威而鋼](https://www.lpinin.com) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
